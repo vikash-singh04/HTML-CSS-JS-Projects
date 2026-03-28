@@ -1,5 +1,5 @@
 
-# Project 1   "Color-Switcher"
+# Project 1   "Color Switcher"
 
 ## HTML
 ```HTML

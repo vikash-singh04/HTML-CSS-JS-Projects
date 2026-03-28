@@ -1,4 +1,4 @@
-# Project 1   "Color-Switcher"
+# Project 1   "Digital Clock"
 
 ## HTML
 ```HTML
