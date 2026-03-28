@@ -36,6 +36,7 @@
 ```
 
 
+## CSS
 ```CSS
 * {
     margin: 0;
@@ -97,6 +98,7 @@ body {
 ```
 
 
+## JavaScript
 ```JavaScript
 console.log("Vikash")
 let hour = document.querySelector('#hour');
